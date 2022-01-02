@@ -1,5 +1,9 @@
 package com.example.exercises;
 
+import static java.util.Comparator.comparing;
+import static java.util.stream.Collectors.groupingBy;
+import static java.util.stream.Collectors.maxBy;
+
 import java.util.Optional;
 import java.util.function.BiConsumer;
 
