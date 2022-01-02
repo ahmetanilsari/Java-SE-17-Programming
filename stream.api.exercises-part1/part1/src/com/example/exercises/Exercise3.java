@@ -4,6 +4,7 @@ import java.util.Collection;
 import java.util.Map;
 import java.util.stream.Collectors;
 
+import com.example.domain.Director;
 import com.example.domain.Genre;
 import com.example.domain.Movie;
 import com.example.service.InMemoryMovieService;
